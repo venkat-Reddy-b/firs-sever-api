@@ -1,0 +1,50 @@
+{
+    "data": {
+      "recipe": {
+        "publisher": "All Recipes",
+        "ingredients": [
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "pre-baked pizza crust"
+          },
+          {
+            "quantity": 0.5,
+            "unit": "cup",
+            "description": "pesto"
+          },
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "ripe tomato chopped"
+          },
+          {
+            "quantity": 0.5,
+            "unit": "cup",
+            "description": "green bell pepper chopped"
+          },
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "can chopped black olives drained"
+          },
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "small red onion chopped"
+          },
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "can artichoke hearts drained and sliced"
+          },
+          {
+            "quantity": 1,
+            "unit": "cup",
+            "description": "crumbled feta cheese"
+          }
+        ]
+      }
+    }
+  }
+  
