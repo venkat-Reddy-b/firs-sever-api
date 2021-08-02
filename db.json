@@ -1,178 +1,225 @@
 {
-  "recipes": [
+  "data" : [
     {
-    "publisher": "Closet Cooking",
-    "image_url": "http://forkify-api.herokuapp.com/images/BBQChickenPizzawithCauliflowerCrust5004699695624ce.jpg",
-    "title": "Cauliflower Pizza Crust (with BBQ Chicken Pizza)",
-    "id": "5ed6604591c37cdc054bcd09"
+      "id" : "106003f1v",
+      "title" : "Veg Manchuria",
+      "hotelname": "Bawarchi",
+      "deliverytime" : " 30mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "veg",
+      "reviews" : "Amazing food of Indian style and place for food lovers" ,
+      "image_url": ""
     },
     {
-    "publisher": "Closet Cooking",
-    "image_url": "http://forkify-api.herokuapp.com/images/BBQChickenPizzawithCauliflowerCrust5004699695624ce.jpg",
-    "title": "Cauliflower Pizza Crust (with BBQ Chicken Pizza)",
-    "id": "5ed6604591c37cdc054bcc13"
+      "id" : "106003f2v",
+      "title" : "Paneer Frankie",
+      "hotelname": "Bawarchi",
+      "deliverytime" : "20mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "veg",
+      "reviews" : "Very spicy and food taste is awesome",
+      "image_url": ""
+
     },
     {
-    "publisher": "Simply Recipes",
-    "image_url": "http://forkify-api.herokuapp.com/images/pizza292x2007a259a79.jpg",
-    "title": "Homemade Pizza",
-    "id": "5ed6604591c37cdc054bcb34"
+      "id" : "106003f1n",
+      "title" : "Chicken Shawarma",
+      "hotelname": " Bawarchi ",
+      "deliverytime" : "35mins",
+      "full" : "300Rs",
+      "half" : "150Rs",
+      "foodtype": "non veg",
+      "reviews" : "Extremely good and must try for a casual lunch or dinner",
+      "image_url": "" 
     },
     {
-    "publisher": "Simply Recipes",
-    "image_url": "http://forkify-api.herokuapp.com/images/howtogrillpizzad300x20086a60e1b.jpg",
-    "title": "How to Grill Pizza",
-    "id": "5ed6604591c37cdc054bcb37"
+      "id" : "106003f2n",
+      "title" : "Chicken Kathi Roll",
+      "hotelname": " Bawarchi ",
+      "deliverytime" : "45mins",
+      "full" : "200Rs",
+      "half" : "100Rs",
+      "foodtype": "non veg",
+      "reviews" : "Very spicy and food taste is awesome",
+      "image_url": ""
     },
     {
-    "publisher": "Closet Cooking",
-    "image_url": "http://forkify-api.herokuapp.com/images/Pizza2BDip2B12B500c4c0a26c.jpg",
-    "title": "Pizza Dip",
-    "id": "5ed6604591c37cdc054bcac4"
+      "id" : "106003f3v",
+      "title" : "Veg Pizza",
+      "hotelname": " Bawarchi ",
+      "deliverytime" : "40mins",
+      "full" : "180Rs",
+      "half" : "90Rs",
+      "foodtype": "veg",
+      "reviews" : "Amazing food and  good place for food lovers",
+      "image_url": "" 
     },
     {
-    "publisher": "All Recipes",
-    "image_url": "http://forkify-api.herokuapp.com/images/391236ba85.jpg",
-    "title": "Veggie Pizza",
-    "id": "5ed6604591c37cdc054bca5d"
+      "id" : "106003f4v",
+      "title" : "Veg Biryani",
+      "hotelname": " Bawarchi ",
+      "deliverytime" : "25mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "veg",
+      "reviews" : "Food is superb and good service",
+      "image_url": "" 
     },
     {
-    "publisher": "All Recipes",
-    "image_url": "http://forkify-api.herokuapp.com/images/7988559586.jpg",
-    "title": "Valentine Pizza",
-    "id": "5ed6604591c37cdc054bca57"
+      "id" : "106003f3n",
+      "title" : "Chicken Biryani",
+      "hotelname": " Bawarchi ",
+      "deliverytime" : "35mins",
+      "full" : "240Rs",
+      "half" : "120Rs",
+      "foodtype": "non veg",
+      "reviews" : "very spicy and food taste is awesome",
+      "image_url": "" 
     },
     {
-    "publisher": "A Spicy Perspective",
-    "image_url": "http://forkify-api.herokuapp.com/images/IMG_4351180x1804f4a.jpg",
-    "title": "Greek Pizza",
-    "id": "5ed6604591c37cdc054bca3b"
+      "id" : "106003f4n",
+      "title" : "Chicken Noodles",
+      "hotelname": "Bawarchi",
+      "deliverytime" : "45mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "non veg",
+      "reviews" : "Food is superb and good service",
+      "image_url": ""
     },
     {
-      "publisher": "BBC Good Food",
-      "image_url": "http://forkify-api.herokuapp.com/images/4425_MEDIUMc880.jpg",
-      "title": "Carrot cake",
-      "id": "5ed6604591c37cdc054bca65"
-      },
-      {
-      "publisher": "The Pioneer Woman",
-      "image_url": "http://forkify-api.herokuapp.com/images/sloppyjoese759.jpg",
-      "title": "Sigrid's Carrot Cake",
-      "id": "5ed6604691c37cdc054bd02c"
-      },
-      {
-      "publisher": "A Spicy Perspective",
-      "image_url": "http://forkify-api.herokuapp.com/images/IMG_5751180x180179b.jpg",
-      "title": "Carrot Soup Recipe",
-      "id": "5ed6604591c37cdc054bcf54"
-      },
-      {
-      "publisher": "The Pioneer Woman",
-      "image_url": "http://forkify-api.herokuapp.com/images/WhiskeyGlazedCarrotsddc3.jpg",
-      "title": "Whiskey-Glazed Carrots",
-      "id": "5ed6604591c37cdc054bccdc"
-      },
-      {
-      "publisher": "Real Simple",
-      "image_url": "http://forkify-api.herokuapp.com/images/carrotsmoothie_30014096fc8.jpg",
-      "title": "Carrot-Pineapple Smoothie",
-      "id": "5ed6604591c37cdc054bcb8a"
-      },
-      {
-      "publisher": "BBC Good Food",
-      "image_url": "http://forkify-api.herokuapp.com/images/7003_MEDIUMa93c.jpg",
-      "title": "Carrot &amp; coriander soup",
-      "id": "5ed6604591c37cdc054bcf61"
-      },
-      {
-      "publisher": "101 Cookbooks",
-      "image_url": "http://forkify-api.herokuapp.com/images/bakedcarrotfries1e0d2.jpg",
-      "title": "Baked Carrot Oven Fries",
-      "id": "5ed6604591c37cdc054bcd36"
-      },
-      {
-      "publisher": "101 Cookbooks",
-      "image_url": "http://forkify-api.herokuapp.com/images/moroccan_carrot_salad_recipe41be.jpg",
-      "title": "Moroccan Carrot and Chickpea Salad",
-      "id": "5ed6604591c37cdc054bcd12"
-      },
-      {
-      "publisher": "All Recipes",
-      "image_url": "http://forkify-api.herokuapp.com/images/7949869bb4.jpg",
-      "title": "Sam's Famous Carrot Cake",
-      "id": "5ed6604591c37cdc054bc9cf"
-      },
-      {
-      "publisher": "Epicurious",
-      "image_url": "http://forkify-api.herokuapp.com/images/3509357969.jpg",
-      "title": "Beef Stew with Potatoes and Carrots",
-      "id": "5ed6604591c37cdc054bc862"
-      },
-      {
-      "publisher": "BBC Good Food",
-      "image_url": "http://forkify-api.herokuapp.com/images/2089_MEDIUM3e70.jpg",
-      "title": "Spiced carrot &amp; lentil soup",
-      "id": "5ed6604591c37cdc054bcedd"
-      },
-      {
-      "publisher": "BBC Good Food",
-      "image_url": "http://forkify-api.herokuapp.com/images/470640_MEDIUMe9b0.jpg",
-      "title": "Carrot &amp; cream cheese cupcakes",
-      "id": "5ed6604591c37cdc054bcf60"
-      },
-      {
-        "publisher": "BBC Good Food",
-        "image_url": "http://forkify-api.herokuapp.com/images/3309_MEDIUMc520.jpg",
-        "title": "Pasta 'ncasciata (Aubergine wrapped pasta dome)",
-        "id": "5ed6604591c37cdc054bcf01"
-        },
-        {
-        "publisher": "101 Cookbooks",
-        "image_url": "http://forkify-api.herokuapp.com/images/spring_pasta_recipe8286.jpg",
-        "title": "Spring Pasta",
-        "id": "5ed6604591c37cdc054bcd45"
-        },
-        {
-        "publisher": "The Pioneer Woman",
-        "image_url": "http://forkify-api.herokuapp.com/images/carbonara2f55.jpg",
-        "title": "Pasta Carbonara",
-        "id": "5ed6604591c37cdc054bcc4b"
-        },
-        {
-        "publisher": "The Pioneer Woman",
-        "image_url": "http://forkify-api.herokuapp.com/images/seafoodpasta5075.jpg",
-        "title": "Seafood Pasta",
-        "id": "5ed6604591c37cdc054bcc54"
-        },
-        {
-        "publisher": "All Recipes",
-        "image_url": "http://forkify-api.herokuapp.com/images/102079acb4.jpg",
-        "title": "Lobster Pasta",
-        "id": "5ed6604591c37cdc054bc94f"
-        },
-        {
-        "publisher": "All Recipes",
-        "image_url": "http://forkify-api.herokuapp.com/images/4016535bca.jpg",
-        "title": "Sausage Pasta",
-        "id": "5ed6604591c37cdc054bc9d3"
-        },
-        {
-        "publisher": "BBC Good Food",
-        "image_url": "http://forkify-api.herokuapp.com/images/9649_MEDIUM7140.jpg",
-        "title": "Tuna pasta bake",
-        "id": "5ed6604691c37cdc054bd0cf"
-        },
-        {
-        "publisher": "The Pioneer Woman",
-        "image_url": "http://forkify-api.herokuapp.com/images/pestopasta1833.jpg",
-        "title": "Pesto Pasta Salad",
-        "id": "5ed6604691c37cdc054bd0ec"
-        },
-        {
-        "publisher": "The Pioneer Woman",
-        "image_url": "http://forkify-api.herokuapp.com/images/4835843705_abf1ff7779_b9c85.jpg",
-        "title": "Pasta with Pancetta and Leeks",
-        "id": "5ed6604591c37cdc054bcf8a"
-        }
-    ]
+      "id" : "106003f5v",
+      "title" : "Garlic Mushrooms",
+      "hotelname": "Bawarchi",
+      "deliverytime" : "25mins",
+      "full" : "260Rs",
+      "half" : "130Rs",
+      "foodtype": "veg",
+      "reviews" : "very spicy and food taste is awesome",
+      "image_url": ""
+    },
+    {
+      "id" : "106003f5n",
+      "title" : "Tangdi Kabab",
+      "hotelname": "Bawarchi",
+      "deliverytime" : "35mins",
+      "full" : "280Rs",
+      "half" : "140Rs",
+      "foodtype": "non veg",
+      "reviews" : "Amazing food and good place for food lovers",
+      "image_url": "" 
+    },
+    {
+      "id" : "106003f6v",
+      "title" : "Dal Makhani",
+      "hotelname": "Kritunga",
+      "deliverytime" : "30mins",
+      "full" : "80Rs",
+      "half" : "40Rs",
+      "foodtype": "veg",
+      "reviews" : "Amazing food of Indian style and good place for food lovers",
+      "image_url": "" 
+    },
+    {
+      "id" : "106003f7v",
+      "title" : "Matar Paneer",
+      "hotelname": "Kritunga",
+      "deliverytime" : "35mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : "Very apicy and food taste is awesome",
+      "image_url": "" 
+    },
+    {
+      "id" : "106003f8v",
+      "title" : "kadai Paneer",
+      "hotelname": "Kritunga",
+      "deliverytime" : "40mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "veg",
+      "reviews" : "Extremely good and must try for casual lunch or dinner",
+      "image_url": ""
+    },
+    {
+      "id" : "106003f9v",
+      "title" : "Bhagara",
+      "hotelname": "Kritunga",
+      "deliverytime" : "45mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "veg",
+      "reviews" : "very spicy and food taste is awesome",
+      "image_url": "" 
+    },
+    {
+      "id" : "106003f10v",
+      "title" : "Gobi Manchurian",
+      "hotelname": "Kritunga",
+      "deliverytime" : "15mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "veg",
+      "reviews" : "extremely good and amazing service",
+      "image_url": ""
+    },
+    {
+      "id" : "106003f6n",
+      "title" : "Butter Chicken",
+      "hotelname": "Kritunga",
+      "deliverytime" : "20mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "non veg",
+      "reviews" : "Amazing food of Indian style and good palce for fod lovers",
+      "image_url": ""
+    },
+    {
+      "id" : "106003f7n",
+      "title" : "Chicken Cutlet",
+      "hotelname": "Kritunga",
+      "deliverytime" : "25mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "non veg",
+      "reviews" : "Very spicy and food taste is awesome",
+      "image_url": ""
+    }, 
+    {
+      "id" : "106003f8n",
+      "title" : "Tandoori Chicken ",
+      "hotelname": "Kritunga",
+      "deliverytime" : "30mins",
+      "full" : "200Rs",
+      "half" : "100Rs",
+      "foodtype": "non veg",
+      "reviews" : "Extremely good and amazing service",
+      "image_url": "" 
+    },
+    {
+      "id" : "106003f9n",
+      "title" : "Chicken Burger",
+      "hotelname": "Kritunga",
+      "deliverytime" : "35mins",
+      "full" : "180Rs",
+      "half" : "90Rs",
+      "foodtype": "non veg",
+      "reviews" : "very spicy and must try for food lovers",
+      "image_url": ""
+    },
+    {
+      "id" : "106003f10n",
+      "title" : "Apollo Fish Fry",
+      "hotelname": "Kritunga",
+      "deliverytime" : "40mins",
+      "full" : "2200Rs",
+      "half" : "110Rs",
+      "foodtype": "non veg",
+      "reviews" : "Amazing food and good service",
+      "image_url": ""
+    }
+  ]
 }
