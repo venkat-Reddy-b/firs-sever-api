@@ -9,7 +9,7 @@
       "half" : "80Rs",
       "foodtype": "veg",
       "reviews" : "Amazing food of Indian style and place for food lovers" ,
-      "image_url": ""
+      "image_url": "https://mypullzone-9vexd6dl53at.netdna-ssl.com/wp-content/uploads/2017/03/veg-manchurian-dry-recipe-step-by-step-instructions-10.jpg"
     },
     {
       "id" : "106003f2v",
@@ -20,7 +20,7 @@
       "half" : "70Rs",
       "foodtype": "veg",
       "reviews" : "Very spicy and food taste is awesome",
-      "image_url": ""
+      "image_url": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-Featured-1.jpg"
 
     },
     {
@@ -32,7 +32,7 @@
       "half" : "150Rs",
       "foodtype": "non veg",
       "reviews" : "Extremely good and must try for a casual lunch or dinner",
-      "image_url": "" 
+      "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-square-FS-57.jpg" 
     },
     {
       "id" : "106003f2n",
@@ -43,18 +43,18 @@
       "half" : "100Rs",
       "foodtype": "non veg",
       "reviews" : "Very spicy and food taste is awesome",
-      "image_url": ""
+      "image_url": "https://img-global.cpcdn.com/recipes/893101ba11fb18f7/751x532cq70/chicken-kathi-roll-recipe-main-photo.jpg"
     },
     {
       "id" : "106003f3v",
-      "title" : "Veg Pizza",
+      "title" : "Panner Tikka Pizza",
       "hotelname": " Bawarchi ",
       "deliverytime" : "40mins",
       "full" : "180Rs",
       "half" : "90Rs",
       "foodtype": "veg",
       "reviews" : "Amazing food and  good place for food lovers",
-      "image_url": "" 
+      "image_url": "https://satyamskitchen.com/wp-content/uploads/2021/01/20191231_220705_1_40-e1611225297521.jpg" 
     },
     {
       "id" : "106003f4v",
@@ -65,7 +65,7 @@
       "half" : "60Rs",
       "foodtype": "veg",
       "reviews" : "Food is superb and good service",
-      "image_url": "" 
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsnU-Q9KOJhIn3Qt6X91Nr0oVZbIWHAXNWg&usqp=CAU" 
     },
     {
       "id" : "106003f3n",
@@ -76,7 +76,7 @@
       "half" : "120Rs",
       "foodtype": "non veg",
       "reviews" : "very spicy and food taste is awesome",
-      "image_url": "" 
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SweqCd6jb5UXy27mWdARMfFWYPmSD35TeA&usqp=CAU" 
     },
     {
       "id" : "106003f4n",
@@ -108,7 +108,7 @@
       "full" : "280Rs",
       "half" : "140Rs",
       "foodtype": "non veg",
-      "reviews" : "Amazing food and good place for food lovers",
+      "reviews" : "Amazing food and good place for food lovers and nice ambience",
       "image_url": "" 
     },
     {
@@ -208,7 +208,7 @@
       "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : "very spicy and must try for food lovers",
-      "image_url": ""
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC7z0nWdiqYf3lV_BNYF7aOZjE79CZe22_A&usqp=CAU"
     },
     {
       "id" : "106003f10n",
@@ -219,7 +219,7 @@
       "half" : "110Rs",
       "foodtype": "non veg",
       "reviews" : "Amazing food and good service",
-      "image_url": ""
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpB6o5BTzhKql8Hgzyo7U3jRVfuva2Z9_XA&usqp=CAU"
     }
   ]
 }
