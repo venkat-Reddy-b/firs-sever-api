@@ -8,7 +8,7 @@
       "full" : "160Rs",
       "half" : "80Rs",
       "foodtype": "veg",
-      "reviews" : "Amazing food of Indian style and place for food lovers" ,
+      "reviews" : ["Amazing food of Indian style and place for food lovers" ,"Very spicy and food taste is awesome"],
       "image_url": "https://mypullzone-9vexd6dl53at.netdna-ssl.com/wp-content/uploads/2017/03/veg-manchurian-dry-recipe-step-by-step-instructions-10.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "full" : "140Rs",
       "half" : "70Rs",
       "foodtype": "veg",
-      "reviews" : "Very spicy and food taste is awesome",
+      "reviews" : ["Amazing food of Indian style and place for food lovers" ,"Very spicy and food taste is awesome"],
       "image_url": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-Featured-1.jpg"
 
     },
@@ -31,7 +31,7 @@
       "full" : "300Rs",
       "half" : "150Rs",
       "foodtype": "non veg",
-      "reviews" : "Extremely good and must try for a casual lunch or dinner",
+      "reviews" : ["Extremely good and must try for a casual lunch or dinner","Amazing food of Indian style and place for food lovers" ],
       "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-square-FS-57.jpg" 
     },
     {
@@ -42,7 +42,7 @@
       "full" : "200Rs",
       "half" : "100Rs",
       "foodtype": "non veg",
-      "reviews" : "Very spicy and food taste is awesome",
+      "reviews" : ["Extremely good and must try for a casual lunch or dinner","Amazing food of Indian style and place for food lovers" ],
       "image_url": "https://img-global.cpcdn.com/recipes/893101ba11fb18f7/751x532cq70/chicken-kathi-roll-recipe-main-photo.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "full" : "180Rs",
       "half" : "90Rs",
       "foodtype": "veg",
-      "reviews" : "Amazing food and  good place for food lovers",
+      "reviews" : ["Amazing food and  good place for food lovers","Extremely good and must try for a casual lunch or dinner"],
       "image_url": "https://satyamskitchen.com/wp-content/uploads/2021/01/20191231_220705_1_40-e1611225297521.jpg" 
     },
     {
@@ -64,7 +64,7 @@
       "full" : "120Rs",
       "half" : "60Rs",
       "foodtype": "veg",
-      "reviews" : "Food is superb and good service",
+      "reviews" : ["Food is superb and good service","Extremely good and must try for a casual lunch or dinner"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsnU-Q9KOJhIn3Qt6X91Nr0oVZbIWHAXNWg&usqp=CAU" 
     },
     {
@@ -75,7 +75,7 @@
       "full" : "240Rs",
       "half" : "120Rs",
       "foodtype": "non veg",
-      "reviews" : "very spicy and food taste is awesome",
+      "reviews" : ["very spicy and food taste is awesome","Food is superb and good service"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SweqCd6jb5UXy27mWdARMfFWYPmSD35TeA&usqp=CAU" 
     },
     {
@@ -86,7 +86,7 @@
       "full" : "100Rs",
       "half" : "50Rs",
       "foodtype": "non veg",
-      "reviews" : "Food is superb and good service",
+      "reviews" : ["Food is superb and good service"],
       "image_url": ""
     },
     {
@@ -97,7 +97,7 @@
       "full" : "260Rs",
       "half" : "130Rs",
       "foodtype": "veg",
-      "reviews" : "very spicy and food taste is awesome",
+      "reviews" : ["very spicy and food taste is awesome"],
       "image_url": ""
     },
     {
@@ -108,7 +108,7 @@
       "full" : "280Rs",
       "half" : "140Rs",
       "foodtype": "non veg",
-      "reviews" : "Amazing food and good place for food lovers and nice ambience",
+      "reviews" : ["Amazing food and good place for food lovers and nice ambience"],
       "image_url": "" 
     },
     {
@@ -119,7 +119,7 @@
       "full" : "80Rs",
       "half" : "40Rs",
       "foodtype": "veg",
-      "reviews" : "Amazing food of Indian style and good place for food lovers",
+      "reviews" : ["Amazing food of Indian style and good place for food lovers"],
       "image_url": "" 
     },
     {
@@ -130,7 +130,7 @@
       "full" : "100Rs",
       "half" : "50Rs",
       "foodtype": "veg",
-      "reviews" : "Very apicy and food taste is awesome",
+      "reviews" : ["Very apicy and food taste is awesome"],
       "image_url": "" 
     },
     {
@@ -141,7 +141,7 @@
       "full" : "120Rs",
       "half" : "60Rs",
       "foodtype": "veg",
-      "reviews" : "Extremely good and must try for casual lunch or dinner",
+      "reviews" : ["Extremely good and must try for casual lunch or dinner"],
       "image_url": ""
     },
     {
@@ -152,7 +152,7 @@
       "full" : "140Rs",
       "half" : "70Rs",
       "foodtype": "veg",
-      "reviews" : "very spicy and food taste is awesome",
+      "reviews" : ["very spicy and food taste is awesome"],
       "image_url": "" 
     },
     {
@@ -163,7 +163,7 @@
       "full" : "160Rs",
       "half" : "80Rs",
       "foodtype": "veg",
-      "reviews" : "extremely good and amazing service",
+      "reviews" : ["extremely good and amazing service"],
       "image_url": ""
     },
     {
@@ -174,7 +174,7 @@
       "full" : "120Rs",
       "half" : "60Rs",
       "foodtype": "non veg",
-      "reviews" : "Amazing food of Indian style and good palce for fod lovers",
+      "reviews" : ["Amazing food of Indian style and good palce for fod lovers"],
       "image_url": ""
     },
     {
@@ -185,7 +185,7 @@
       "full" : "140Rs",
       "half" : "70Rs",
       "foodtype": "non veg",
-      "reviews" : "Very spicy and food taste is awesome",
+      "reviews" : ["Very spicy and food taste is awesome"],
       "image_url": ""
     }, 
     {
@@ -196,7 +196,7 @@
       "full" : "200Rs",
       "half" : "100Rs",
       "foodtype": "non veg",
-      "reviews" : "Extremely good and amazing service",
+      "reviews" : ["Extremely good and amazing service"],
       "image_url": "" 
     },
     {
@@ -207,7 +207,7 @@
       "full" : "180Rs",
       "half" : "90Rs",
       "foodtype": "non veg",
-      "reviews" : "very spicy and must try for food lovers",
+      "reviews" : ["very spicy and must try for food lovers"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC7z0nWdiqYf3lV_BNYF7aOZjE79CZe22_A&usqp=CAU"
     },
     {
@@ -218,7 +218,7 @@
       "full" : "2200Rs",
       "half" : "110Rs",
       "foodtype": "non veg",
-      "reviews" : "Amazing food and good service",
+      "reviews" : ["Amazing food and good service"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpB6o5BTzhKql8Hgzyo7U3jRVfuva2Z9_XA&usqp=CAU"
     }
   ]
