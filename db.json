@@ -28,8 +28,8 @@
       "title" : "Chicken Shawarma",
       "hotelname": " Bawarchi ",
       "deliverytime" : "35mins",
-      "full" : "300Rs",
-      "half" : "150Rs",
+      "full" : "180Rs",
+      "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : ["Extremely good and must try for a casual lunch or dinner","Amazing food of Indian style and place for food lovers" ],
       "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-square-FS-57.jpg" 
@@ -39,8 +39,8 @@
       "title" : "Chicken Kathi Roll",
       "hotelname": " Bawarchi ",
       "deliverytime" : "45mins",
-      "full" : "200Rs",
-      "half" : "100Rs",
+      "full" : "160Rs",
+      "half" : "80Rs",
       "foodtype": "non veg",
       "reviews" : ["Extremely good and must try for a casual lunch or dinner","Amazing food of Indian style and place for food lovers" ],
       "image_url": "https://img-global.cpcdn.com/recipes/893101ba11fb18f7/751x532cq70/chicken-kathi-roll-recipe-main-photo.jpg"
@@ -72,8 +72,8 @@
       "title" : "Chicken Biryani",
       "hotelname": " Bawarchi ",
       "deliverytime" : "35mins",
-      "full" : "240Rs",
-      "half" : "120Rs",
+      "full" : "180Rs",
+      "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : ["very spicy and food taste is awesome","Food is superb and good service"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SweqCd6jb5UXy27mWdARMfFWYPmSD35TeA&usqp=CAU" 
@@ -94,8 +94,8 @@
       "title" : "Garlic Mushrooms",
       "hotelname": "Bawarchi",
       "deliverytime" : "25mins",
-      "full" : "260Rs",
-      "half" : "130Rs",
+      "full" : "160Rs",
+      "half" : "80Rs",
       "foodtype": "veg",
       "reviews" : ["very spicy and food taste is awesome"],
       "image_url": ""
@@ -105,8 +105,8 @@
       "title" : "Tangdi Kabab",
       "hotelname": "Bawarchi",
       "deliverytime" : "35mins",
-      "full" : "280Rs",
-      "half" : "140Rs",
+      "full" : "180Rs",
+      "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : ["Amazing food and good place for food lovers and nice ambience"],
       "image_url": "" 
@@ -116,8 +116,8 @@
       "title" : "Dal Makhani",
       "hotelname": "Kritunga",
       "deliverytime" : "30mins",
-      "full" : "80Rs",
-      "half" : "40Rs",
+      "full" : "100Rs",
+      "half" : "50Rs",
       "foodtype": "veg",
       "reviews" : ["Amazing food of Indian style and good place for food lovers"],
       "image_url": "" 
@@ -193,8 +193,8 @@
       "title" : "Tandoori Chicken ",
       "hotelname": "Kritunga",
       "deliverytime" : "30mins",
-      "full" : "200Rs",
-      "half" : "100Rs",
+      "full" : "180Rs",
+      "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : ["Extremely good and amazing service"],
       "image_url": "" 
@@ -215,11 +215,383 @@
       "title" : "Apollo Fish Fry",
       "hotelname": "Kritunga",
       "deliverytime" : "40mins",
-      "full" : "2200Rs",
-      "half" : "110Rs",
+      "full" : "180Rs",
+      "half" : "90Rs",
       "foodtype": "non veg",
       "reviews" : ["Amazing food and good service"],
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpB6o5BTzhKql8Hgzyo7U3jRVfuva2Z9_XA&usqp=CAU"
+    },
+    {
+      "id" : "106003f11n",
+      "title" : "Lemon Butter Chicken",
+      "hotelname": "Opend Dew 95",
+      "deliverytime" : "35mins",
+      "full" : "110Rs",
+      "half" : "55Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and food taste is awesome"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f11v",
+      "title" : "Pulao",                                                                                                                          
+      "hotelname": "Opend Dew 95",
+      "deliverytime" : "35mins",
+      "full" : "100",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing food and good service"],
+      "image_url":""
+    },
+    {
+      "id" : "106003f12n",
+      "title" : "Fried chicken",
+      "hotelname": "Opend Dew 95",
+      "deliverytime" : "40mins",
+      "full" : "180Rs",
+      "half" : "90Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try for chicken lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f12v",
+      "title" : "Veg Stew",
+      "hotelname": "Opend Dew 95",
+      "deliverytime" : "30mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Extremely good and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f13n",
+      "title" : "Chicken 65",
+      "hotelname": "Opend Dew 95",
+      "deliverytime" : "45mins",
+      "full" : "160Rs",
+      "half" : "60Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Amazing food and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f13v",
+      "title" : "Veg Cutlet",
+      "hotelname": "Prego",
+      "deliverytime" : "45mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Extremely good and amazing services"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f14n",
+      "title" : "Goan Fish Curry",
+      "hotelname": "Prego",
+      "deliverytime" : "40mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try for fish lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f15n",
+      "title" : "Chicken Curry",
+      "hotelname": "Prego",
+      "deliverytime" : "30mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Extremely good and amazing service"],
+      "image_url" : ""
+    },
+    {
+      "id" : "106003f14v",
+      "title" : "Veg Frankie",
+      "hotelname": "Prego",
+      "deliverytime" : "35mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing taste and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f15v",
+      "title" : "Paneer Tikka",
+      "hotelname": "Prego",
+      "deliverytime" : "40mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing food and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f16n",
+      "title" : "Haleem",
+      "hotelname": "Cayenne",
+      "deliverytime" : "30mins",
+      "full" : "180Rs",
+      "half" : "00Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try "],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f16v",
+      "title" : "Bread Pakoda",
+      "hotelname": "Cayenne",
+      "deliverytime" : "35mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Extremely good and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f17n",
+      "title" : "Rogan Gosh",
+      "hotelname": "Cayenne",
+      "deliverytime" : "40mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try for mutton lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f17v",
+      "title" : "Pizza",
+      "hotelname": "Cayenne",
+      "deliverytime" : "45mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "veg",
+      "reviews" : ["Food is superb and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f18n",
+      "title" : "Laal Maas",
+      "hotelname": "Cayenne",
+      "deliverytime" : "30mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Amazing Food and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f18v",
+      "title" : "Mix Veg",
+      "hotelname": "Tabla",
+      "deliverytime" : "35mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing Food of Indian style"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f19n",
+      "title" : "Galouti Kebab",
+      "hotelname": "Tabla",
+      "deliverytime" : "40mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try for food lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f19v",
+      "title" : "Veg Kadai",
+      "hotelname": "Tabla",
+      "deliverytime" : "45mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing food of Indian style"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f20n",
+      "title" : "Laziz Lamb Handi",
+      "hotelname": "Tabla",
+      "deliverytime" : "50mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Extremely good and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f20v",
+      "title" : "Masala Dosa",
+      "hotelname": "Tabla",
+      "deliverytime" : "30mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Superb food and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f21n",
+      "title" : "Khatta Meat",
+      "hotelname": "Paradise",
+      "deliverytime" : "35mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "veg",
+      "reviews" : ["Very spicy and must try for food lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f21v",
+      "title" : "Pav Bhaji",
+      "hotelname": "Paradise",
+      "deliverytime" : "40mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing food and good service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f22n",
+      "title" : "Parsi Mutton Cutlets",
+      "hotelname": "Paradise",
+      "deliverytime" : "45mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Extremely good and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f22v",
+      "title" : "Chilly Baby corn",
+      "hotelname": "Paradise",
+      "deliverytime" : "50mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing food and must try for food lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f23n",
+      "title" : "Dhabe Da Keema",
+      "hotelname": "Paradise",
+      "deliverytime" : "30mins",
+      "full" : "180Rs",
+      "half" : "90Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Very spicy and must try for food lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f23v",
+      "title" : "Potato Skin Chips",
+      "hotelname": "Mehfil",
+      "deliverytime" : "35mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "veg",
+      "reviews" : ["Amazing Food and good services"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f24n",
+      "title" : "Badami Lamb Korma",
+      "hotelname": "Mehfil",
+      "deliverytime" : "40mins",
+      "full" : "160Rs",
+      "half" : "80Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Superb food and amazing service"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f24v",
+      "title" : "Lauki Vadi",
+      "hotelname": "Mehfil",
+      "deliverytime" : "45mins",
+      "full" : "120Rs",
+      "half" : "60Rs",
+      "foodtype": "veg",
+      "reviews" : ["Very spicy and must try for food lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f25n",
+      "title" : "Mutton Biryani",
+      "hotelname": "Mehfil",
+      "deliverytime" : "35mins",
+      "full" : "140Rs",
+      "half" : "70Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Amazing taste and must try for mutton lovers"],
+      "image_url": ""
+    },
+    {
+      "id" : "106003f25v",
+      "title" : "Pasta Samosa",
+      "hotelname": "Mehfil",
+      "deliverytime" : "30mins",
+      "full" : "100Rs",
+      "half" : "50Rs",
+      "foodtype": "non veg",
+      "reviews" : ["Amazing service and good taste"],
+      "image_url": ""
     }
   ]
 }
+    
+    
+    
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
